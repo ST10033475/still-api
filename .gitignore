@@ -128,5 +128,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-.still-2004-firebase-adminsdk-tlgbq-0747e0f3f0.json
+./still-2004-firebase-adminsdk-tlgbq-0747e0f3f0.json
 
